@@ -132,6 +132,9 @@
     <bool name="config_haveHigherAspectRatioScreen">true</bool>
     <item name="config_screenAspectRatio" format="float" type="dimen">2.0</item>
 
+     <!-- If this is true, the screen will fade off. -->
+    <bool name="config_animateScreenLights">false</bool>
+
     <bool name="config_defaultCABC">false</bool>
 
     <!-- Display mode remapping table.
